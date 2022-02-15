@@ -1,13 +1,7 @@
 Didier Rojero
 
-<<<<<<< Updated upstream
-Hello World
-=======
-Lorem ipsum dolor sit amet, 
-consectetur adipiscing elit. 
-Aliquam molestie lacus a dolor cursus imperdiet. 
-Vestibulum dignissim sem id ex varius, fringilla sollicitudin est vehicula. 
-Morbi iaculis hendrerit leo dictum ultrices. Curabitur placerat faucibus elementum. 
-Vivamus vel sodales velit. Vivamus consequat dolor vitae pellentesque lacinia. 
-Sed semper lorem non vulputate ullamcorper.
->>>>>>> Stashed changes
+Cras vestibulum lacinia nulla ornare feugiat. 
+Nunc faucibus volutpat ligula vitae porta. 
+Etiam vulputate consectetur magna. Duis lorem dolor, viverra non imperdiet in, fermentum quis libero. 
+Aenean cursus augue sit amet sapien mattis, id mattis risus accumsan. Fusce congue orci sit amet condimentum posuere. 
+Sed suscipit dui ultricies lectus aliquam vulputate. Quisque non lorem vulputate, lobortis magna a, hendrerit orci.
